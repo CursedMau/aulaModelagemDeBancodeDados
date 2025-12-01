@@ -1,0 +1,9 @@
+-- 05_delete.sql
+DELETE FROM FREQUENCIA
+WHERE freq_id = 2;
+
+DELETE FROM NOTA
+WHERE nota_id = 2;
+
+DELETE FROM MATRICULA
+WHERE matricula_id = 2;
